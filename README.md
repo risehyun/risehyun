@@ -3,10 +3,10 @@
 👀 Interest
  - Studying Game Development
 
-🏆 Prize
+🏆 Awards
  - (2019) 한국게임학회 추계학술경연대회 우수논문상 (first author)
- - (2019) XVRF VR·AR 그랜드 챌린지 경진대회 본선 진출상
- - (2019) 공학페스티벌 창의적 종합설계 경진대회 한국공학교육학회장상
+ - (2019) XVRF VR·AR 그랜드 챌린지 경진대회 본선 진출상 (Project Leader)
+ - (2019) 공학페스티벌 창의적 종합설계 경진대회 한국공학교육학회장상 (Project Leader)
  - (2022) 한국정보기술학회 추계학술경연대회 우수논문상 (first author)
  - (2018, 2022) 교내 학술제 2회 수상
 
