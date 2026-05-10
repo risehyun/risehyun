@@ -1,8 +1,5 @@
 ### Hi there, I'm Dahyun Kim
 
-👀 Interest
- - Studying Game Development
-
 🏆 Awards
  - (2019) 한국게임학회 추계학술경연대회 우수논문상 (First author)
  - (2019) XVRF VR·AR 그랜드 챌린지 경진대회 본선 진출상 (Project Leader)
@@ -12,7 +9,8 @@
 
 💫 Experience
  - (2019) 주니어 게임창작 캠프 보조 강사
- - (2025) 중학교 디지털 튜터
+ - (2025~2026) 프로그래밍 강사
+ - (2025~2026) 디지털 튜터
 
 🛠 Languages and Tools
 
